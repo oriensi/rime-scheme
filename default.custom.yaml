@@ -1,0 +1,11 @@
+# Rime default settings
+# encoding: utf-8
+
+customization:
+patch:
+  schema_list:
+    - {schema: zm}
+    - {schema: double_pinyin_flypy}
+    - {schema: luna_pinyin}
+  menu:
+    page_size: 6
