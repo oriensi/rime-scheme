@@ -5,7 +5,7 @@ customization:
 patch:
   schema_list:
     - {schema: zm}
-    - {schema: double_pinyin_flypy}
     - {schema: luna_pinyin}
+    - {schema: double_pinyin_flypy}
   menu:
     page_size: 6
